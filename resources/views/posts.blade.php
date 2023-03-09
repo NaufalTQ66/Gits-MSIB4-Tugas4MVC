@@ -15,7 +15,7 @@
     <section class="about" id="posts">
         <h1 class="heading" data-aos="fade-up"> <span>Laptop</span> </h1>
         <div class="biography">
-            <h1>List Laptops</h1>
+            <p>List Laptops</p>
             <table>
                 <thead>
                     <tr>

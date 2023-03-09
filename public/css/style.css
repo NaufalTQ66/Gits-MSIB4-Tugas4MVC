@@ -211,7 +211,7 @@ section{
    max-width: 75rem;
    line-height: 2;
    font-size: 2rem;
-   font-weight: 600;
+   font-weight: 700;
 }
 
 .about .biography .bio{
@@ -228,6 +228,18 @@ section{
    font-size: 2.5rem;
    font-weight: normal;
 }
+
+table {
+   margin-left: auto;
+   margin-right: auto;
+   width: 70%;
+   border: 2px solid;
+   font-size: 2rem;
+ }
+ 
+ table, th {
+   border: 2px solid;
+ }
 
 .credit{
    position: fixed;
